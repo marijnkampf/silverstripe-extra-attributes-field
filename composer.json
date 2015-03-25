@@ -1,0 +1,17 @@
+{
+	"name": "exadium/dropdown-attributes-field",
+	"description": "Extension of SilverStripe DropdownField to allow attributes for options of dropdown field.",
+	"type": "silverstripe-module",
+  "homepage": "https://github.com/marijnkampf/silverstripe-dropdown-attributes-field",
+	"keywords": ["silverstripe", "module", "dropdownfield", "dropdown", "field"],
+	"authors": [
+		{"name": "Marijn Kampf", "email": "info@exadium.com" }
+	],
+  "support": {
+    "issues": "https://github.com/marijnkampf/silverstripe-dropdown-attributes-field/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+}

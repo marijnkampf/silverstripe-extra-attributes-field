@@ -17,7 +17,7 @@ Exadium Web Development and Online Marketing. Visit http://www.exadium.com for m
 Installation
 ------------
 ````
-composer "exadium/dropdown-attributes-field":"*"
+composer require "exadium/dropdown-attributes-field":"*"
 ````
 
 Usage
@@ -29,7 +29,7 @@ $field = DropdownAttributesField::create(
 	array(
 		'1' => 'One',
 		'2' => 'Two',
-		'3'=> 'Three'
+		'3' => 'Three'
 	)
 )->setOptionsAttributes(
 	'data-bats',

@@ -14,4 +14,7 @@
     "silverstripe/cms": "~3.1",
     "silverstripe/framework": "~3.1"
   },
+  "extra": {
+    "installer-name": "dropdown-attributes-field",
+  }  
 }

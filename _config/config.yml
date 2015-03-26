@@ -1,0 +1,6 @@
+---
+Name: FormFieldAttributesExtension
+---
+FormField:
+  extensions:
+    - FormFieldAttributesExtension

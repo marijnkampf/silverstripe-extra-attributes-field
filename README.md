@@ -1,9 +1,9 @@
-Dropdown Attributes Field module
+Extra Attributes Field module
 ================================
 
 Description
 -----------
-Extension of SilverStripe DropdownField to allow attributes for options of dropdown field.
+Extension of SilverStripe form fields to allow adding attributes to child elements on dropdown and checkboxset fields.
 
 Maintainer Contact
 ------------------
@@ -17,12 +17,12 @@ Exadium Web Development and Online Marketing. Visit http://www.exadium.com for m
 Installation
 ------------
 ````
-composer require "exadium/dropdown-attributes-field":"*"
+composer require "exadium/extra-attributes-field":"*"
 ````
 
 The module should work out of the box on a standard installation of SilverStripe. If you have Bootstrap Forms module installed by
 
-\dropdown-attributes-field\templates\
+\extra-attributes-field\templates\
 \themes\bootstrap\templates
 
 Usage

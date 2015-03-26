@@ -91,6 +91,15 @@ $fields->push(
 );
 ````
 
+Notes
+-----
+If you use [silverstripe-bootstrap-forms](https://github.com/unclecheese/silverstripe-bootstrap-forms) copy BootstrapCheckboxSetField.ss to your templates folder. If you use your own custom Field templates add 
+````
+$OptionAttributesHTML 
+````
+
+to your input/option/checkbox/...
+
 Requirements
 ------------
 SilverStripe 3.1

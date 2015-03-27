@@ -15,6 +15,6 @@
     "silverstripe/framework": "~3.1"
   },
   "extra": {
-    "installer-name": "dropdown-attributes-field"
+    "installer-name": "extra-attributes-field"
   }  
 }
